@@ -18,7 +18,7 @@
 # Screenshot of the Application
 
 <p align="center" >
- <img src="images/capture.PNG"  height="auto">
+ <img src="images/Capture.PNG"  height="auto">
 </p>
 
 # Description
